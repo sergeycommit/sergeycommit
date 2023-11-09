@@ -6,8 +6,11 @@
 ### Контакты
 https://t.me/sergey_ilyin_ds
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeycommit&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeycommit&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergeycommit&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergeycommit&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergeycommit&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergeycommit&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeycommit&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sergeycommit&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeycommit&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sergeycommit&theme=default)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
