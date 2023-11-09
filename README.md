@@ -5,3 +5,5 @@
 
 ### Контакты
 https://t.me/sergey_ilyin_ds
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeycommit)](https://github.com/sergeycommit/github-readme-stats)
