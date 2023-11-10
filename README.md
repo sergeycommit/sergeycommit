@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!)](https://git.io/typing-svg)
 ### О себе
 Меня зовут Сергей Ильин, с марта 2023 года я изучаю Machine Learning. Ранее я работал AQA писал фреймворк автотестирования на Python.
 
