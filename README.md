@@ -6,17 +6,16 @@
 
 На академических проектах практиковался в создании сервиса рекомендаций на FastAPI, решение задачи предсказания с помощью МL алгоритма классификации, так же создавал и тюнил нейронные сети.
 
-### Контакты
-https://t.me/sergey_ilyin_ds
-
-s.ilyin.ds@gmail.com
-
 ### ML проекты
 | Репозиторий | Описание проекта |
 |----------|----------|
 | [Default_classification](https://github.com/sergeycommit/example_default_classification) | Классификация сделки как дефолт. Использовал Logistic Regression, SVM, Random Forest Classifier, Catboost. |
 | soon | Рекомендательный сервис. Предсказательная модель Catboost. FastApi, БД PostgreSQL, Docker. |
 | soon | Сервис предсказания движения цены BTC в телеграмм. My Ensemble, API. |
+
+### Контакты
+https://t.me/sergey_ilyin_ds 
+s.ilyin.ds@gmail.com
 
 ### Languages and Tools
 
