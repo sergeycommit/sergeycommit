@@ -11,7 +11,7 @@
 |----------|----------|
 | [Default_classification](https://github.com/sergeycommit/example_default_classification) | Классификация сделки как дефолт. Использовал Logistic Regression, SVM, Random Forest Classifier, Catboost. |
 | soon | Рекомендательный сервис. Предсказательная модель Catboost. FastApi, БД PostgreSQL, Docker. |
-| soon | Сервис предсказания движения цены BTC в телеграмм. My Ensemble, API. |
+| soon | Сервис предсказания движения цены BTC c ботом в телеграмм. My Ensemble, TGAPI. |
 
 ### Languages and Tools
 
