@@ -9,6 +9,7 @@
 ### ML проекты
 | Репозиторий | Описание проекта |
 |----------|----------|
+| [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | Предсказания временных рядов для биржи MoEx в рамках участия в хаккатоне Go.Algo. Использовал LAMA. |
 | [Default_classification](https://github.com/sergeycommit/example_default_classification) | Классификация сделки как дефолт. Использовал Logistic Regression, SVM, Random Forest Classifier, Catboost. |
 | soon | Рекомендательный сервис. Предсказательная модель Catboost. FastApi, БД PostgreSQL, Docker. |
 | soon | Сервис предсказания движения цены BTC c ботом в телеграмм. My Ensemble, TGAPI. |
