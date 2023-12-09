@@ -9,8 +9,8 @@
 ### ML проекты
 | Репозиторий | Описание проекта |
 |----------|----------|
-| [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | Предсказания временных рядов для биржи MoEx в рамках участия в хаккатоне Go.Algo. Стек: LAMA. |
-| [Default_classification](https://github.com/sergeycommit/example_default_classification) | Предсказание исхода сделки, задача классификации. Использовал Logistic Regression, SVM, Random Forest Classifier, Catboost. |
+| [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | Предсказания временных рядов на бирже MoEX в рамках участия в хакатоне Go.Algo. Stack: LAMA. |
+| [Default_classification](https://github.com/sergeycommit/example_default_classification) | Предсказание исхода сделки, задача классификации. Stack: Logistic Regression, SVM, Random Forest Classifier, Catboost. |
 | soon | Рекомендательный сервис. Stack: Catboost, FastApi, PostgreSQL, Docker. |
 
 ### Languages and Tools
