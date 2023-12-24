@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello, World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+World!)](https://git.io/typing-svg)
+
 ### О себе
 Меня зовут Сергей Ильин, программирую более 3-х лет, с марта 2023 года изучаю Machine Learning, работаю QA engineer, пишу автотесты на Python.
 
@@ -14,7 +15,7 @@
 | soon | Рекомендательный сервис. Stack: Catboost, FastApi, PostgreSQL, Docker. |
 
 <details>
-  <summary><h2>🔥 Сертификаты</h2></summary>
+  <summary><h4>🔥 Сертификаты</h4></summary>
   <div align="center">
   
   | Organization | Certificate |
