@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello, World!)](https://git.io/typing-svg)
 ### О себе
 Меня зовут Сергей Ильин, программирую более 3-х лет, с марта 2023 года изучаю Machine Learning, работаю QA engineer, пишу автотесты на Python.
 
@@ -9,9 +9,21 @@
 ### ML проекты
 | Репозиторий | Описание проекта |
 |----------|----------|
-| [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | Предсказания временных рядов на бирже MoEX в рамках участия в хакатоне Go.Algo. Stack: LAMA. |
+| [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | 3🏅 место в хакатоне Go.Algo от MOEX. Предсказания временных рядов цены акций. Stack: LAMA. |
 | [Default_classification](https://github.com/sergeycommit/example_default_classification) | Предсказание исхода сделки, задача классификации. Stack: Logistic Regression, SVM, Random Forest Classifier, Catboost. |
 | soon | Рекомендательный сервис. Stack: Catboost, FastApi, PostgreSQL, Docker. |
+
+<details>
+  <summary><h2>🔥 Сертификаты</h2></summary>
+  <div align="center">
+  
+  | Organization | Certificate |
+  |-|-|
+  | [MOEX Go.Algo](https://goalgo.ru/) | <img width="500" alt="image" src="https://github.com/sergeycommit">  <br> [PDF](https://github.com/sergeycommit)|
+
+  
+</div>
+</details>
 
 ### Languages and Tools
 
@@ -27,4 +39,3 @@ s.ilyin.ds@gmail.com
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergeycommit&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergeycommit&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeycommit&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sergeycommit&theme=default)
-
