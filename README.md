@@ -5,7 +5,7 @@
 Для углубленных знаний в ML прошел онлайн курс Karpov.courses, c помощью которого освоил анализ данных и машинное обучение, разработку приложений FastApi и работу с БД PostgreSQL, оркестровку AirFlow, основы Deep Learning, статистику и А/В тесты.
 
 В рамках проектов создавал сервис рекомендаций, решал задачи предсказания с помощью классических алгоритмов, также создавал и тюнил нейронные сети для классификации изображений, детекции объектов, семантики текста, генерации изображений и текста.
-
+<a href="https://github.com/sergeycommit/sergeycommit/blob/main/KC.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 ### ML проекты
 | Репозиторий | Описание проекта |
 |----------|----------|
@@ -19,9 +19,8 @@
   
   | Organization                         | Certificate                                                                                                                   |
   |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-  | [MOEX Go.Algo](https://goalgo.ru/)   | <img width="500" alt="image" src="https://github.com/sergeycommit/GoAlgo.pdf">  <br> [PDF](https://github.com/sergeycommit)   |
-  | -                                    | ----------------------------------------------------------------------------------------------------------------------------- |
-  | [Karpov Courses](https://goalgo.ru/) | <img width="500" alt="image" src="https://github.com/sergeycommit/KC.pdf">  <br> [PDF](https://github.com/sergeycommit)       |
+  | [MOEX Go.Algo](https://goalgo.ru/)   | <img width="500" alt="image" src="https://github.com/sergeycommit/sergeycommit/blob/main/GoAlgo.pdf">  <br> [PDF](https://github.com/sergeycommit/sergeycommit/blob/main/GoAlgo.pdf)   |
+  | [Karpov Courses](https://goalgo.ru/) | <img width="500" alt="image" src="https://github.com/sergeycommit/sergeycommit/blob/main/KC.pdf">  <br> [PDF](https://github.com/sergeycommit/sergeycommit/blob/main/KC.pdf)       |
 
   
 </div>
