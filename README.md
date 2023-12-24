@@ -17,9 +17,11 @@
   <summary><h4>🔥 Сертификаты</h4></summary>
   <div align="center">
   
-  | Organization | Certificate |
-  |-|-|
-  | [MOEX Go.Algo](https://goalgo.ru/) | <img width="500" alt="image" src="https://github.com/sergeycommit">  <br> [PDF](https://github.com/sergeycommit)|
+  | Organization                         | Certificate                                                                                                                   |
+  |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+  | [MOEX Go.Algo](https://goalgo.ru/)   | <img width="500" alt="image" src="https://github.com/sergeycommit/GoAlgo.pdf">  <br> [PDF](https://github.com/sergeycommit)   |
+  | -                                    | ----------------------------------------------------------------------------------------------------------------------------- |
+  | [Karpov Courses](https://goalgo.ru/) | <img width="500" alt="image" src="https://github.com/sergeycommit/KC.pdf">  <br> [PDF](https://github.com/sergeycommit)       |
 
   
 </div>
