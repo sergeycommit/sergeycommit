@@ -9,6 +9,8 @@
 Для углубленных знаний ML в 2023 прошел онлайн-курс Karpov.courses "ML Start", где освоил анализ данных и машинное обучение, разработку приложений FastApi и работу с БД PostgreSQL, оркестровку AirFlow, основы Deep Learning, статистику и А/В тесты.
 
 Пишу ML сервисы, решаю задачи предсказания с помощью классических ML алгоритмов, создаю и тюню нейронные сети.
+
+Использую AI.
 <a href="https://github.com/sergeycommit/sergeycommit/blob/main/KC.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 ### ML проекты
 | Репозиторий | Описание проекта |
