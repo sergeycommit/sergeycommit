@@ -20,7 +20,7 @@
 | soon | Рекомендательный сервис. Stack: Catboost, FastApi, PostgreSQL, Docker. |
 
 <details>
-  <h4>🔥 Сертификаты</h4>
+  <summary><h4>🔥 Сертификаты</h4><summary>
   <div align="center">
   
   | Organization                         | Certificate                                                                                                                   |
