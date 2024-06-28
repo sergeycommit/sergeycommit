@@ -25,8 +25,8 @@
   
   | Organization                         | Certificate                                                                                                                   |
   |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-  | [MOEX Go.Algo](https://goalgo.ru/)   | [PDF](https://github.com/sergeycommit/sergeycommit/blob/main/GoAlgo.pdf)   |
-  | [Karpov.Courses](https://karpov.courses/) | [PDF](https://github.com/sergeycommit/sergeycommit/blob/main/KC.pdf)       |
+  | [MOEX Go.Algo](https://goalgo.ru/)   | [JPG](https://github.com/sergeycommit/sergeycommit/blob/main/GoAlgo_page-0001.pdf)   |
+  | [Karpov.Courses](https://karpov.courses/) | [JPG](https://github.com/sergeycommit/sergeycommit/blob/main/KC_page-0001.pdf)       |
 
   
 </div>
