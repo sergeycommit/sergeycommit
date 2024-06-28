@@ -20,13 +20,13 @@
 | soon | Рекомендательный сервис. Stack: Catboost, FastApi, PostgreSQL, Docker. |
 
 <details>
-  <summary><h4>🔥 Сертификаты</h4></summary>
+  <h4>🔥 Сертификаты</h4>
   <div align="center">
   
   | Organization                         | Certificate                                                                                                                   |
   |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-  | [MOEX Go.Algo](https://goalgo.ru/)   | [JPG](https://github.com/sergeycommit/sergeycommit/blob/main/GoAlgo_page-0001.pdf)   |
-  | [Karpov.Courses](https://karpov.courses/) | [JPG](https://github.com/sergeycommit/sergeycommit/blob/main/KC_page-0001.pdf)       |
+  | [MOEX Go.Algo](https://goalgo.ru/)   | [](https://github.com/sergeycommit/sergeycommit/blob/main/GoAlgo_page-0001.pdf)   |
+  | [Karpov.Courses](https://karpov.courses/) | [](https://github.com/sergeycommit/sergeycommit/blob/main/KC_page-0001.pdf)       |
 
   
 </div>
