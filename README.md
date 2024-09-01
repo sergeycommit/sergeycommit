@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+World!)](https://git.io/typing-svg)
 ### О себе:
-Более 3,5 лет в QA automation, пишу на Python. Активно изучаю и применяю AI, ML/Data Science.
+Более 3.5 лет в QA automation, пишу на Python. Активно изучаю и применяю AI, ML/Data Science.
 
 3 командное место в хаккатоне от MOEX Московской биржи. Моя часть микросервис для скоринга акций с высоким потенциалом роста(предсказание временного ряда).
 
