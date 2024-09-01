@@ -15,7 +15,7 @@
 ### Проекты:
 | src | Описание проекта |
 |----------|----------|
-| https://t.me/ArigatoAIBOT | "ChatGPT" в телеграм, с алгоритмом маршрутизации TOP моделей для чата, кодинга и др, с лучшим качеством, за меньшую цену. Stack: python, aiogram, asyncio, mongo, docker, api моделей. |
+| https://t.me/ArigatoAIBOT | ChatGPT в телеграм без VPN. С алгоритмом роутинга TOP моделей для чата(gpt), кодинга(claude sonnet), image генерации(flux) и др, для более релевантных ответов. Stack: python, aiogram, asyncio, mongo, docker, api моделей. |
 | [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | 3🏅 место в хакатоне Go.Algo от MOEX. Предсказания временных рядов цены акций. Stack: LAMA. |
 | [Default_classification](https://github.com/sergeycommit/example_default_classification) | Предсказание исхода сделки, задача классификации. Stack: Logistic Regression, SVM, Random Forest Classifier, Catboost. |
 
