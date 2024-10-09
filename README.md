@@ -1,26 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+World!)](https://git.io/typing-svg)
 ### О себе:
-Более 3.5 лет в QA automation, пишу на Python. Активно изучаю и применяю AI, ML/Data Science.
+4 years of Python QA automation engineering experience. Studying and applying AI, ML/Data Science.
 
-3 командное место в хаккатоне от MOEX Московской биржи. Моя часть микросервис для скоринга акций с высоким потенциалом роста(предсказание временного ряда).
+Creating AI-based services.
+https://t.me/free_chatgpt_midjourney_bot - free ChatGPT with flux, https://t.me/English_linguaAI_bot - AI foreign language tutor.
 
-Спикер крупнейшей конференции о тестировании Heisenbug 2024 с темой "Взаимодействие ручного и автоматизации тестирования в проекте".
+Speaker at Heisenbug 2024, Russia's largest testing conference, with the topic "Interaction of manual and automated testing in a project".
 
-Для углубленных знаний ML в 2023 прошел онлайн-курс Karpov.courses "ML Start", где освоил анализ данных и машинное обучение, разработку приложений FastApi и работу с БД PostgreSQL, оркестровку AirFlow, основы Deep Learning, статистику и А/В тесты.
+Took 3rd place with a team in a hackathon by MOEX Moscow Exchange. My part - a microservice for scoring stocks with high growth potential (time series prediction).
 
-Пишу ML сервисы, решаю задачи предсказания с помощью классических ML алгоритмов, создаю и тюню нейронные сети.
-
-Использую AI.
+Searching for myself, lots of money, love beauty.
 <a href="https://github.com/sergeycommit/sergeycommit/blob/main/KC.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
-### Проекты:
-| src | Описание проекта |
+### Projects:
+| src | description |
 |----------|----------|
-| https://t.me/ArigatoAIBOT | ChatGPT в телеграм без VPN. С алгоритмом роутинга TOP моделей для чата(gpt), кодинга(claude sonnet), image генерации(flux) и др, для более релевантных ответов. Stack: python, aiogram, asyncio, mongo, docker, api моделей. |
-| [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | 3🏅 место в хакатоне Go.Algo от MOEX. Предсказания временных рядов цены акций. Stack: LAMA. |
-| [Default_classification](https://github.com/sergeycommit/example_default_classification) | Предсказание исхода сделки, задача классификации. Stack: Logistic Regression, SVM, Random Forest Classifier, Catboost. |
-
+| https://t.me/ArigatoAIBOT | ChatGPT in Telegram without VPN. With a routing algorithm for TOP models for chat (gpt), coding (claude sonnet), image generation (flux) and others, for more relevant answers. Stack: python, aiogram, asyncio, mongo, docker, model APIs. |
+| AlgoPack_time_series | 3rd🏅 place in the Go.Algo hackathon from MOEX. Stock price time series predictions. Stack: LAMA. |
+| Default_classification | Predicting transaction outcomes, classification task. Stack: Logistic Regression, SVM, Random Forest Classifier, Catboost. |
 <details>
-  <summary><h4>🔥 Сертификаты</h4></summary>
+  <summary><h4>🔥Certificates</h4></summary>
   <div align="center">
   
   | Organization                         | Certificate                                                                                                                   |
@@ -35,7 +33,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Контакты:
+### Contacts:
 https://t.me/s_ilyin
 
 s.ilyin.ds@gmail.com
