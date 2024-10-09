@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+World!)](https://git.io/typing-svg)
-### О себе:
+### About me:
 4 years of Python QA automation engineering experience. Studying and applying AI, ML/Data Science.
 
 Creating AI-based services.
