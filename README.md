@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+World!)](https://git.io/typing-svg)
 ### About me:
-4 years of Python QA automation engineering experience. Studying and applying AI, ML/Data Science.
+5+ years of Python QA automation engineering experience. Studying and applying AI, ML/Data Science.
 
 Creating AI-based services.
 https://t.me/free_chatgpt_midjourney_bot - free ChatGPT with flux, https://t.me/English_linguaAI_bot - AI foreign language tutor.
