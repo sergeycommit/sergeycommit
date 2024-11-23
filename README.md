@@ -15,8 +15,8 @@ Searching for myself, lots of money, love beauty.
 | src | description |
 |----------|----------|
 | https://t.me/free_chatgpt_midjourney_bot | ChatGPT in Telegram without VPN. With a routing algorithm for TOP models for chat (gpt), coding (claude sonnet), image generation (flux) and others, for more relevant answers. Stack: python, aiogram, asyncio, mongo, docker, model APIs. |
-| AlgoPack_time_series | 3rd🏅 place in the Go.Algo hackathon from MOEX. Stock price time series predictions. Stack: LAMA. |
-| Default_classification | Predicting transaction outcomes, classification task. Stack: Logistic Regression, SVM, Random Forest Classifier, Catboost. |
+| [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | 3rd🏅 place in the Go.Algo hackathon from MOEX. Stock price time series predictions. Stack: LAMA. |
+| [Default_prediction](https://github.com/sergeycommit/example_default_classification) | Predicting transaction outcomes, classification task. Stack: Logistic Regression, SVM, Random Forest Classifier, Catboost. |
 <details>
   <summary><h4>🔥Certificates</h4></summary>
   <div align="center">
