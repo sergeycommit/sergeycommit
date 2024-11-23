@@ -3,7 +3,7 @@
 5+ years of Python QA automation engineering experience. Studying and applying AI, ML/Data Science.
 
 Creating AI-based services.
-https://t.me/free_chatgpt_midjourney_bot - free ChatGPT with flux, https://t.me/English_linguaAI_bot - AI foreign language tutor.
+https://t.me/free_chatgpt_midjourney_bot - free ChatGPT with Flux, https://t.me/English_linguaAI_bot - AI foreign language tutor.
 
 Speaker at Heisenbug 2024, Russia's largest testing conference, with the topic "Interaction of manual and automated testing in a project".
 
