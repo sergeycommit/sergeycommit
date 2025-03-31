@@ -9,7 +9,7 @@ Speaker at Heisenbug 2024, Russia's largest testing conference, with the topic "
 
 Took 3rd place with a team in a hackathon by MOEX Moscow Exchange. My part - a microservice for scoring stocks with high growth potential (time series prediction).
 
-Searching for myself, lots of money, love beauty.
+Want, can, do.
 <a href="https://github.com/sergeycommit/sergeycommit/blob/main/KC.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 ### Projects:
 | src | description |
