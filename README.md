@@ -13,6 +13,7 @@ Want, can, do.
 ### Projects:
 | src | description |
 |----------|----------|
+| [Google Calendar Extension](https://chromewebstore.google.com/detail/google-calendar-extension/dfbpjijneaihingmldgpgcodglkoamoe) | Google calendar extension: Manage events, calendar reminders & sync calendars. Join video meetings in a shared calendar app. |
 | [Chrome Cache Cleaner](https://chromewebstore.google.com/detail/fgggiddcalbfbchppcmfaldmnfmmneof?utm_source=git) | Chrome extension Cache Cleaner - cache, history, cookies cleaner for Chrome-based browsers. |
 | [Chrome AI Assistant](https://chromewebstore.google.com/detail/bmcddehnhehchlldcdencelaebmdoelj?utm_source=git) | Chrome extension for ai coding assistant and ai chat online productivity with smart, instant help in your browser. |
 | [Free AI Telegram bot](https://t.me/free_chatgpt_midjourney_bot) | Telegram bot free AI with image generation. Stack: python, aiogram, asyncio, mongo, docker, APIs, bash. |
