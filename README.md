@@ -15,7 +15,6 @@ Want, can, do.
 |----------|----------|
 | [Google Calendar Extension](https://chromewebstore.google.com/detail/google-calendar-extension/dfbpjijneaihingmldgpgcodglkoamoe) | Google calendar extension: Manage events, calendar reminders & sync calendars. Join video meetings in a shared calendar app. |
 | [Chrome Cache Cleaner](https://chromewebstore.google.com/detail/fgggiddcalbfbchppcmfaldmnfmmneof?utm_source=git) | Chrome extension Cache Cleaner - cache, history, cookies cleaner for Chrome-based browsers. |
-| [Chrome AI Assistant](https://chromewebstore.google.com/detail/bmcddehnhehchlldcdencelaebmdoelj?utm_source=git) | Chrome extension for ai coding assistant and ai chat online productivity with smart, instant help in your browser. |
 | [Free AI Telegram bot](https://t.me/free_chatgpt_midjourney_bot) | Telegram bot free AI with image generation. Stack: python, aiogram, asyncio, mongo, docker, APIs, bash. |
 | [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | 3rd🏅 place in the Go.Algo hackathon from MOEX. Stock price time series predictions. Stack: LAMA. |
 | [Default_prediction](https://github.com/sergeycommit/example_default_classification) | Predicting transaction outcomes, classification task. Stack: Logistic Regression, SVM, Random Forest Classifier, Catboost. |
