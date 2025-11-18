@@ -13,10 +13,10 @@ Want, can, do.
 ### Projects:
 | src | description |
 |----------|----------|
+| [Swagger testgen](https://github.com/sergeycommit/swagger_testgen) | Test cases generator, using AI, for API testing on swagger. |
 | [Gmail Extension](https://chromewebstore.google.com/detail/gmail-ext/glinhpihgdifmlhbdmdebooglhlijoel?utm_source=пшерги) | Mail Checker & Notifier: get real-time Gmail notifications, alerts, unread count, access & email management. |
 | [Google Calendar Extension](https://chromewebstore.google.com/detail/google-calendar-extension/dfbpjijneaihingmldgpgcodglkoamoe) | Google calendar extension: Manage events, calendar reminders & sync calendars. Join video meetings in a shared calendar app. |
 | [Chrome Cache Cleaner](https://chromewebstore.google.com/detail/fgggiddcalbfbchppcmfaldmnfmmneof?utm_source=git) | Chrome extension Cache Cleaner - cache, history, cookies cleaner for Chrome-based browsers. |
-|  [AI assistant chrome extension](https://github.com/sergeycommit/AI_Assistant) | Simple AI assistant chrome extension. |
 | [Free AI Telegram bot](https://t.me/free_chatgpt_midjourney_bot) | Telegram bot free AI with image generation. Stack: python, aiogram, asyncio, mongo, docker, APIs, bash. |
 | [AlgoPack_time_series](https://github.com/sergeycommit/AlgoPack_time_series) | 3rd🏅 place in the Go.Algo hackathon from MOEX. Stock price time series predictions. Stack: LAMA. |
 | [Default_prediction](https://github.com/sergeycommit/example_default_classification) | Predicting transaction outcomes, classification task. Stack: Logistic Regression, SVM, Random Forest Classifier, Catboost. |
