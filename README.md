@@ -39,7 +39,7 @@ Want, can, do.
 ### Contacts:
 https://t.me/s_ilyin
 
-s.ilyin.ds@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sergei-ilin-67b63422b/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeycommit&theme=default)
 
