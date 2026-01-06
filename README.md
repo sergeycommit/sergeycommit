@@ -13,7 +13,7 @@ Want, can, do.
 ### Projects:
 | src | description |
 |----------|----------|
-| [Site Blocker]([https://github.com/sergeycommit/swagger_testgen](https://chromewebstore.google.com/detail/siteblocker/hejbkenndbgmaghlfobegpgkgfgmohoi?utm_source=git) | A browser extension that manages website access to improve focus, productivity, and relaxation. |
+| [Site Blocker](https://chromewebstore.google.com/detail/siteblocker/hejbkenndbgmaghlfobegpgkgfgmohoi?utm_source=git) | A browser extension that manages website access to improve focus, productivity, and relaxation. |
 | [Swagger testgen](https://github.com/sergeycommit/swagger_testgen) | Test cases generator, using AI, for API testing on swagger. |
 | [Gmail Extension](https://chromewebstore.google.com/detail/gmail-ext/glinhpihgdifmlhbdmdebooglhlijoel?utm_source=git) | Mail Checker & Notifier: get real-time Gmail notifications, alerts, unread count, access & email management. |
 | [Google Calendar Extension](https://chromewebstore.google.com/detail/google-calendar-extension/dfbpjijneaihingmldgpgcodglkoamoe?utm_source=git) | Google calendar extension: Manage events, calendar reminders & sync calendars. Join video meetings in a shared calendar app. |
