@@ -13,7 +13,7 @@ Want, can, do.
 ### Projects:
 | src | description |
 |----------|----------|
-| [Add blocker](https://chromewebstore.google.com/detail/ad-blocker/acobkmpfkodelfobnlmpecacagmcegfc?utm_source=git) | Ad Blocker removes pre-roll and mid-roll ads on YouTube and Twitch and cleans up banners and overlays so videos stay uninterrupted |
+| [Ad blocker](https://chromewebstore.google.com/detail/ad-blocker/acobkmpfkodelfobnlmpecacagmcegfc?utm_source=git) | Ad Blocker removes pre-roll and mid-roll ads on YouTube and Twitch and cleans up banners and overlays so videos stay uninterrupted |
 | [Site Blocker](https://chromewebstore.google.com/detail/siteblocker/hejbkenndbgmaghlfobegpgkgfgmohoi?utm_source=git) | A browser extension that manages website access to improve focus, productivity, and relaxation. |
 | [Swagger testgen](https://github.com/sergeycommit/swagger_testgen) | Test cases generator, using AI, for API testing on swagger. |
 | [Gmail Extension](https://chromewebstore.google.com/detail/gmail-ext/glinhpihgdifmlhbdmdebooglhlijoel?utm_source=git) | Mail Checker & Notifier: get real-time Gmail notifications, alerts, unread count, access & email management. |
