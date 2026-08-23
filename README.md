@@ -14,9 +14,7 @@ Want, can, do.
 | src | description |
 |----------|----------|
 | [Ad blocker](https://chromewebstore.google.com/detail/ad-blocker/acobkmpfkodelfobnlmpecacagmcegfc?utm_source=git) | Ad Blocker removes pre-roll and mid-roll ads on YouTube and Twitch and cleans up banners and overlays so videos stay uninterrupted |
-| [Site Blocker](https://chromewebstore.google.com/detail/siteblocker/hejbkenndbgmaghlfobegpgkgfgmohoi?utm_source=git) | A browser extension that manages website access to improve focus, productivity, and relaxation. |
-| [Swagger testgen](https://github.com/sergeycommit/swagger_testgen) | Test cases generator, using AI, for API testing on swagger. |
-| [Gmail Extension](https://chromewebstore.google.com/detail/gmail-ext/glinhpihgdifmlhbdmdebooglhlijoel?utm_source=git) | Mail Checker & Notifier: get real-time Gmail notifications, alerts, unread count, access & email management. |
+| [Email Checker for Gmail](https://chromewebstore.google.com/detail/hamlnhaalhjhinbpijkphocbbmccjlmf?utm_source=git) | EMail Checker & Notifier: get real-time Gmail notifications, alerts, unread count. Chrome extension |
 | [Google Calendar Extension](https://chromewebstore.google.com/detail/google-calendar-extension/dfbpjijneaihingmldgpgcodglkoamoe?utm_source=git) | Google calendar extension: Manage events, calendar reminders & sync calendars. Join video meetings in a shared calendar app. |
 | [Chrome Cache Cleaner](https://chromewebstore.google.com/detail/fgggiddcalbfbchppcmfaldmnfmmneof?utm_source=git) | Chrome extension Cache Cleaner - cache, history, cookies cleaner for Chrome-based browsers. |
 | [Free AI Telegram bot](https://t.me/free_chatgpt_midjourney_bot) | Telegram bot free AI with image generation. Stack: python, aiogram, asyncio, mongo, docker, APIs, bash. |
